@@ -1,6 +1,6 @@
 # Automated Testing Framework - FirstCry E-commerce
 
-## 📌 Project Overview
+## Project Overview
 This is an automated testing framework developed using **Selenium WebDriver, TestNG, and Java** to test the functionalities of the FirstCry e-commerce website. The framework includes various test cases such as:
 - Navigating to the website
 - Verifying page elements
@@ -10,7 +10,7 @@ This is an automated testing framework developed using **Selenium WebDriver, Tes
 - Adding products to the cart
 - Cart page validation
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Java** (Programming Language)
 - **Selenium WebDriver** (UI Automation)
 - **TestNG** (Test Execution & Reporting)
@@ -35,7 +35,7 @@ This is an automated testing framework developed using **Selenium WebDriver, Tes
 ├── README.md  (Project documentation)
 ```
 
-## 🚀 Setup & Installation
+## Setup & Installation
 ### **Prerequisites:**
 Ensure you have the following installed on your system:
 - Java JDK 8 or later
@@ -43,10 +43,10 @@ Ensure you have the following installed on your system:
 - Google Chrome (latest version)
 - IntelliJ IDEA / Eclipse
 
-### **Steps to Setup the Project:**
+### Steps to Setup the Project:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/sibiraj01/FirstCry-Ecommerse-Application.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -61,7 +61,7 @@ Ensure you have the following installed on your system:
    mvn test
    ```
 
-## 📝 Test Execution
+## Test Execution
 - **Run all test cases:**
   ```sh
   mvn test
@@ -85,9 +85,6 @@ Open this file in a browser to view the test results.
 - If tests fail due to missing ChromeDriver, ensure WebDriverManager is correctly set up.
 - If elements are not found, update the `Xpath.properties` file with the latest locators.
 - Always run `mvn clean install` before executing tests to refresh dependencies.
-
-## 🏆 Contributions
-Feel free to contribute to this project by forking the repository and submitting pull requests.
 
 ## 📧 Contact
 For any queries, reach out at: **sibir0252@gmail.com**
