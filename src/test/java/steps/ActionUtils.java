@@ -25,4 +25,8 @@ public class ActionUtils {
     public void MouseOver(WebElement element){
         actions.moveToElement(element).perform();
     }
+    public void DragAndDrop(WebElement source, WebElement target){
+        actions.dragAndDrop(source, target).perform();
+    }
+
 }

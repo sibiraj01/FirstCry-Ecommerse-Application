@@ -31,3 +31,43 @@
 2025-03-20 21:20:35 INFO  Login:43 - taken home Page screenshot
 2025-03-20 21:20:35 INFO  Login:52 - Verfied page title
 2025-03-20 21:20:36 INFO  HomePageValidation:35 - Login button is present
+2025-03-26 23:47:15 INFO  Login:30 - Launched the browser successfully
+2025-03-26 23:47:29 INFO  Login:38 - Navigated to the URL successfully
+2025-03-26 23:47:29 INFO  Login:40 - taken home Page screenshot
+2025-03-26 23:47:29 INFO  Login:49 - Verfied page title
+2025-03-26 23:47:30 INFO  HomePageValidation:35 - Login button is present
+2025-03-26 23:49:04 INFO  Login:30 - Launched the browser successfully
+2025-03-26 23:49:20 INFO  Login:38 - Navigated to the URL successfully
+2025-03-26 23:49:21 INFO  Login:40 - taken home Page screenshot
+2025-03-26 23:49:21 INFO  Login:49 - Verfied page title
+2025-03-26 23:49:21 INFO  HomePageValidation:35 - Login button is present
+2025-03-27 00:02:54 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:02:56 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:03:05 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:03:05 INFO  MainClass:49 - Verfied page title
+2025-03-27 00:03:07 INFO  HomePageValidation:32 - Login button is presented in the home page
+2025-03-27 00:03:40 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:03:46 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:03:46 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:11:15 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:11:25 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:11:25 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:11:26 INFO  HomePageValidation:31 - Login button is presented in the home page
+2025-03-27 00:43:21 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:43:33 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:43:34 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:43:34 INFO  MainClass:49 - Verfied page title
+2025-03-27 00:44:27 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:44:37 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:44:38 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:44:38 INFO  MainClass:49 - Verfied page title
+2025-03-27 00:49:35 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:49:46 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:49:46 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:49:46 INFO  MainClass:49 - Verfied page title
+2025-03-27 00:49:49 INFO  MainClass:65 - Search for a product
+2025-03-27 00:51:12 INFO  MainClass:30 - Launched the browser successfully
+2025-03-27 00:51:14 INFO  MainClass:38 - Navigated to the URL successfully
+2025-03-27 00:51:20 INFO  MainClass:40 - taken home Page screenshot
+2025-03-27 00:51:20 INFO  MainClass:49 - Verfied page title
+2025-03-27 00:51:23 INFO  MainClass:65 - Search for a product
